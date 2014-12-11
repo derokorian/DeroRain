@@ -6,4 +6,4 @@ Custom skin suite for [Rainmeter](http://rainmeter.net) Contains skins for 6 cor
 Started from [Common Randoms by TheDevil](http://customize.org/rainmeter/skins/65673639) making numerous changes to satisfy my needs.
 
 
-![Preview of Skin](http://imgur.com/FRbXpLU)
+![Preview of Skin](https://raw.githubusercontent.com/derokorian/DeroRain/master/preview.jpg)
